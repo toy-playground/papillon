@@ -1,10 +1,13 @@
 {
-  "name": "craco-ts-template",
+  "name": "papillon",
   "author": "Dreamerryao",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.4.5",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@mui/material": "^5.10.2",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
@@ -20,11 +23,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toy-playground/craco-ts-template.git"
+    "url": "git+https://github.com/toy-playground/papillon.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/toy-playground/craco-ts-template/issues"
+    "url": "https://github.com/toy-playground/papillon/issues"
   },
   "homepage": ".",
   "scripts": {

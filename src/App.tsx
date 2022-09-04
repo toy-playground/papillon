@@ -1,3 +1,4 @@
+import Body from '@/body';
 import Head from '@/Head';
 
 const App = () => {
@@ -14,7 +15,7 @@ const App = () => {
       }}
     >
       <Head />
-      <div className='flex w-full max-w-[1280px] xl:mx-auto px-5 xl:px-0 flex-col lg:flex-row'></div>
+      <Body />
     </div>
   );
 };
